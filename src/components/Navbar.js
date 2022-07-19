@@ -53,7 +53,6 @@ const handleNav = ()=>{
                 <FaYoutube className="icon" />
                 <FaPinterest className="icon" />
                 <FaInstagram className="icon"  />
-
             </div>
          </ul>
          </div>
